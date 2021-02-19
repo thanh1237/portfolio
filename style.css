@@ -193,6 +193,11 @@ a {
   font-weight: 500;
   margin-top: 10px;
 }
+#projects .project-info p {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-top: 10px;
+}
 
 #projects .project-img {
   width: 100%;
@@ -248,6 +253,7 @@ a {
 }
 #about .col-right p {
   margin-bottom: 20px;
+  font-size: 1.5rem;
 }
 #about .col-right a {
   margin-bottom: 20px;
