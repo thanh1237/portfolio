@@ -187,6 +187,16 @@ a {
   font-size: 4rem;
   font-weight: 500;
 }
+#projects .project-info a {
+  margin-top: 7px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: red;
+  text-decoration: none;
+}
+#projects .project-info a:hover {
+  color: white;
+}
 
 #projects .project-info h2 {
   font-size: 1.8rem;
